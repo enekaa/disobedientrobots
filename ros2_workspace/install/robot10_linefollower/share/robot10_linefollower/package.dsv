@@ -1,0 +1,6 @@
+source;share/robot10_linefollower/hook/pythonpath.ps1
+source;share/robot10_linefollower/hook/pythonpath.dsv
+source;share/robot10_linefollower/hook/pythonpath.sh
+source;share/robot10_linefollower/hook/ament_prefix_path.ps1
+source;share/robot10_linefollower/hook/ament_prefix_path.dsv
+source;share/robot10_linefollower/hook/ament_prefix_path.sh
